@@ -2,7 +2,7 @@
 
 All resources related to Node Js at one place
 
-![Ultimate-NodeJs-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/master/cover.png)
+![Ultimate-NodeJs-Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/master/cover.png)
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
