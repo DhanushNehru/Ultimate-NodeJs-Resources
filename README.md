@@ -2,10 +2,10 @@
 
 All resources related to Node Js at one place
 
-![Ultimate-NodeJs-Resources by Dhanush N](cover.png)
+![Ultimate-NodeJs-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/cover.png)
 
 ## Contributing
-Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md) for details before you contribute.
+Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## [NodeJs Official Documentation](https://nodejs.org/en/docs/)
 
