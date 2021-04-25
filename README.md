@@ -105,6 +105,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [JavaTpoint](https://www.javatpoint.com/nodejs-tutorial)
 - [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
 - [Nodeschool](https://nodeschool.io)
+- [NodeJs.Dev](https://nodejs.dev/learn)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Xen)
 
