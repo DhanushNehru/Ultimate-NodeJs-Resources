@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 
 ## Table of Contents
 [Ultimate-NodeJs-Resources](#Ultimate-NodeJs-Resources)
-- [NodeJs Related Github Repositories](#Python-Related-Github-Repositories)
+- [NodeJs Related Github Repositories](#NodeJs-Related-Github-Repositories)
 - [NodeJs IDEs](#NodeJs-IDEs)
 - [NodeJs Security](#NodeJs-Security)
 - [NodeJs Testing Frameworks](#NodeJs-Testing-Frameworks)
@@ -107,5 +107,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Nodeschool](https://nodeschool.io)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Xen)
+
+Searching for a job ? This may help you
+[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
 
 If you liked this repository support it by starring ⭐ 
