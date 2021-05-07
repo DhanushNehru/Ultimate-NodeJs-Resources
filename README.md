@@ -2,7 +2,7 @@
 
 All resources related to Node Js at one place
 
-![Ultimate-NodeJs-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/cover.png)
+![alt text](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/cover.png)
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
@@ -105,6 +105,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [JavaTpoint](https://www.javatpoint.com/nodejs-tutorial)
 - [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
 - [Nodeschool](https://nodeschool.io)
+- [NodeJs.Dev](https://nodejs.dev/learn)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Xen)
 
