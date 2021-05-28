@@ -79,6 +79,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Stackify](https://stackify.com/blog/)  
 
 ## NodeJs Famous Frameworks
+- [Fastify](https://fastify.io)
 - [Hapi.js](https://hapi.dev)
 - [Express.js](https://expressjs.com)
 - [Koa.js](https://koajs.com)
