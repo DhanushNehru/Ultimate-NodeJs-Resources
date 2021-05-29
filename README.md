@@ -55,6 +55,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 - [Ava](https://github.com/avajs/ava)
 - [Istanbul](https://istanbul.js.org)
+- [Tape](https://github.com/substack/tape)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
