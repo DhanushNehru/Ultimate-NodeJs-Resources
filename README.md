@@ -77,7 +77,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [To the new](https://www.tothenew.com/blog/)
 - [Free Code Camp](http://medium.freecodecamp.org)
 - [Hackernoon](http://hackernoon.com)
-- [Stackify](https://stackify.com/blog/)  
+- [Stackify](https://stackify.com/blog/)
+- [Hashnode](https://hashnode.com/n/nodejs)
 
 ## NodeJs Famous Frameworks
 - [Fastify](https://fastify.io)
