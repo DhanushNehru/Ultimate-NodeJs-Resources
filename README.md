@@ -15,6 +15,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [NodeJs IDEs](#NodeJs-IDEs)
 - [NodeJs Security](#NodeJs-Security)
 - [NodeJs Testing Frameworks](#NodeJs-Testing-Frameworks)
+- [NodeJs Books](#NodeJs-Books)
 - [NodeJs YouTube channels](#NodeJs-YouTube-channels)
 - [NodeJs Famous Blogs](#NodeJs-Famous-Blogs)
 - [NodeJs Famous Frameworks](#NodeJs-Famous-Frameworks)
@@ -56,6 +57,14 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Ava](https://github.com/avajs/ava)
 - [Istanbul](https://istanbul.js.org)
 - [Tape](https://github.com/substack/tape)
+
+## NodeJs Books
+- [Node.js cookbook](https://www.amazon.com/dp/1838558756)
+- [Distributed Systems with Node.js](https://www.amazon.com/dp/1492077291)
+- [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
+- [Build Web APIs and Applications with Node.js](https://www.amazon.com/dp/B091GPXXLC)
+- [Node.js Web Development](https://www.amazon.com/dp/1838987576)
+- [FullStack Node.js](https://www.newline.co/fullstack-nodejs)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
