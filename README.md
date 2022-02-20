@@ -15,7 +15,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [NodeJs IDEs](#NodeJs-IDEs)
 - [NodeJs Security](#NodeJs-Security)
 - [NodeJs Testing Frameworks](#NodeJs-Testing-Frameworks)
-- [NodeJs Books](#NodeJs-Books)
 - [NodeJs YouTube channels](#NodeJs-YouTube-channels)
 - [NodeJs Famous Blogs](#NodeJs-Famous-Blogs)
 - [NodeJs Famous Frameworks](#NodeJs-Famous-Frameworks)
@@ -56,15 +55,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 - [Ava](https://github.com/avajs/ava)
 - [Istanbul](https://istanbul.js.org)
-- [Tape](https://github.com/substack/tape)
-
-## NodeJs Books
-- [Node.js cookbook](https://www.amazon.com/dp/1838558756)
-- [Distributed Systems with Node.js](https://www.amazon.com/dp/1492077291)
-- [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
-- [Build Web APIs and Applications with Node.js](https://www.amazon.com/dp/B091GPXXLC)
-- [Node.js Web Development](https://www.amazon.com/dp/1838987576)
-- [FullStack Node.js](https://www.newline.co/fullstack-nodejs)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
@@ -86,11 +76,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [To the new](https://www.tothenew.com/blog/)
 - [Free Code Camp](http://medium.freecodecamp.org)
 - [Hackernoon](http://hackernoon.com)
-- [Stackify](https://stackify.com/blog/)
-- [Hashnode](https://hashnode.com/n/nodejs)
+- [Stackify](https://stackify.com/blog/)  
 
 ## NodeJs Famous Frameworks
-- [Fastify](https://fastify.io)
 - [Hapi.js](https://hapi.dev)
 - [Express.js](https://expressjs.com)
 - [Koa.js](https://koajs.com)
@@ -119,9 +107,11 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Nodeschool](https://nodeschool.io)
 - [NodeJs.Dev](https://nodejs.dev/learn)
 
-Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Xen)
+Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
 
 If you liked this repository support it by starring ⭐ 
+
+<a href="https://www.buymeacoffee.com/dhanushnehru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="174"></a>
