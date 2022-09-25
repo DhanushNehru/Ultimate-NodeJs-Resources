@@ -114,4 +114,4 @@ Searching for a job ? This may help you
 
 If you liked this repository support it by starring ⭐ 
 
-<a href="https://www.buymeacoffee.com/dhanushnehru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="174"></a>
+<a href="https://ko-fi.com/dhanushnehru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="174"></a>
