@@ -48,6 +48,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 ## NodeJs Security
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - [NodeJs Org](https://nodejs.org/en/security/)
+- [NodeJsScan](https://github.com/ajinabraham/nodejsscan)
 
 ## NodeJs Testing Frameworks
 - [Jest](https://jestjs.io)
