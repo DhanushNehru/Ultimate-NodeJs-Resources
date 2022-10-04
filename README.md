@@ -67,6 +67,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Traversy Media](https://www.youtube.com/watch?v=U8XF6AFGqlc)
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
+- [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
 
 ## NodeJs Famous Blogs
 - [Dev.to](http://dev.to/t/node)
