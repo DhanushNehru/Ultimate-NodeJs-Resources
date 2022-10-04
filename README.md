@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 
 ## Table of Contents
 [Ultimate-NodeJs-Resources](#Ultimate-NodeJs-Resources)
+- [NodeJs Topics to cover](#nodejs-topics-to-cover)
 - [NodeJs Related Github Repositories](#NodeJs-Related-Github-Repositories)
 - [NodeJs IDEs](#NodeJs-IDEs)
 - [NodeJs Security](#NodeJs-Security)
@@ -19,6 +20,26 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [NodeJs Famous Blogs](#NodeJs-Famous-Blogs)
 - [NodeJs Famous Frameworks](#NodeJs-Famous-Frameworks)
 - [Top NodeJs Website Tutorials](#Top-NodeJs-Website-Tutorials)
+
+## NodeJs Topics to cover
+- [NodeJs Setup](https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm)
+- [Networking basics](https://www.youtube.com/watch?v=YSyFSnisip0)
+- [Making your first nodejs application](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
+- [Event Lifecycle and Event Loop](https://www.youtube.com/watch?v=qZ_rLRsJ1tU)
+- [Event Blocking](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
+- [Function Callbacks](https://www.youtube.com/watch?v=ui4-OADfgIk)
+- [Await and Async](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
+- [Express](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [EJS(Templating)](http://ejs.co/#docs)
+- [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- [Rest Principles](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [Sessions and Tokens](https://www.geeksforgeeks.org/session-cookies-in-node-js/)
+- [Handling files](https://www.youtube.com/watch?v=ZySsdm576wE)
+- [Multer](https://www.youtube.com/watch?v=EVOFt8Its6I)
+- [Web Sockets](https://www.youtube.com/watch?v=jD7FnbI76Hg)
+- [Info about package.json](https://www.youtube.com/watch?v=-SaZiADGLHs)
+- [Testing your application](https://www.youtube.com/watch?v=Bs68k6xfR3E)
+- [Heroku](https://devcenter.heroku.com/categories/reference)
 
 ## NodeJs Related Github Repositories
 - [Node](https://github.com/nodejs/node)
