@@ -98,6 +98,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Restify.js](http://restify.com)
 - [Diet.js](http://dietjs.com)
 - [Mean.js](http://meanjs.org)
+- [Next.js](https://nextjs.org/docs)
 
 ## Top NodeJs Website Tutorials
 - [W3schools](https://www.w3schools.com/nodejs/)
