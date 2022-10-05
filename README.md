@@ -40,6 +40,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Info about package.json](https://www.youtube.com/watch?v=-SaZiADGLHs)
 - [Testing your application](https://www.youtube.com/watch?v=Bs68k6xfR3E)
 - [Heroku](https://devcenter.heroku.com/categories/reference)
+- [Arrow Function ES6+](https://www.programiz.com/javascript/arrow-function)
 
 ## NodeJs Related Github Repositories
 - [Node](https://github.com/nodejs/node)
