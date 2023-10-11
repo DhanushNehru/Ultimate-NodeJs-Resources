@@ -43,6 +43,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 - [Arrow Function ES6+](https://www.programiz.com/javascript/arrow-function)
 - [NodeJs Architecture](https://www.scaler.com/topics/nodejs/node-js-architecture/)
 - [CLI-Tools using NodeJS](https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
+- [NodeJS Ultimate Roadmap](https://roadmap.sh/nodejs)
 
 ## NodeJs Related Github Repositories
 - [Node](https://github.com/nodejs/node)
