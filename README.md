@@ -71,6 +71,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Brackets](http://brackets.io/index.html)
 - [Aptana](http://www.aptana.com/)
 - [Gitpod](https://www.gitpod.io/)
+- [Eclipse](https://eclipseide.org/)
 
 ## NodeJs Security
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
