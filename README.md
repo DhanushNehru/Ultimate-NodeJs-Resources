@@ -72,6 +72,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Aptana](http://www.aptana.com/)
 - [Gitpod](https://www.gitpod.io/)
 - [Eclipse](https://eclipseide.org/)
+- [IntelliJ IDEA](https://www.jetbrains.com/)
 
 ## NodeJs Security
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
