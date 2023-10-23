@@ -97,6 +97,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
 - [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
+- [Coder Dost](https://www.youtube.com/watch?v=ChVE-JbtYbM)
 
 ## NodeJs Famous Blogs
 - [Dev.to](http://dev.to/t/node)
