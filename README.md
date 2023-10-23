@@ -73,6 +73,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Gitpod](https://www.gitpod.io/)
 - [Eclipse](https://eclipseide.org/)
 - [codelobster](https://www.codelobster.com/)
+- [NetBeans](https://netbeans.apache.org/)
 
 ## NodeJs Security
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
