@@ -142,6 +142,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Nodeschool](https://nodeschool.io)
 - [NodeJs.Dev](https://nodejs.dev/learn)
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
+- [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
 
 Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)
 
