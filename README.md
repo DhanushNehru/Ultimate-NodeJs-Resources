@@ -86,6 +86,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 - [Ava](https://github.com/avajs/ava)
 - [Istanbul](https://istanbul.js.org)
+- [Node Tap](https://node-tap.org)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
