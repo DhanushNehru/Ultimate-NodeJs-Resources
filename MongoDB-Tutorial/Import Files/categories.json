@@ -1,0 +1,20 @@
+{"_id":{"$oid":"64c2342de32f4a51b19b924e"},"name":"Electronics","slug":"electronics"}
+{"_id":{"$oid":"64c2342de32f4a51b19b924f"},"name":"Home & Kitchen","slug":"home-kitchen"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9250"},"name":"Fashion","slug":"fashion"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9251"},"name":"Health & Beauty","slug":"health-beauty"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9252"},"name":"Sports & Outdoors","slug":"sports-outdoors"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9253"},"name":"Toys & Games","slug":"toys-games"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9254"},"name":"Automotive","slug":"automotive"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9255"},"name":"Books & Stationery","slug":"books-stationery"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9256"},"name":"Food & Beverages","slug":"food-beverages"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9257"},"name":"Pet Supplies","slug":"pet-supplies"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9258"},"name":"Furniture","slug":"furniture"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9259"},"name":"Jewelry & Accessories","slug":"jewelry-accessories"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925a"},"name":"Garden & Outdoor","slug":"garden-outdoor"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925b"},"name":"Electrical Appliances","slug":"electrical-appliances"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925c"},"name":"Baby & Kids","slug":"baby-kids"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925d"},"name":"Office Supplies","slug":"office-supplies"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925e"},"name":"Fitness & Wellness","slug":"fitness-wellness"}
+{"_id":{"$oid":"64c2342de32f4a51b19b925f"},"name":"Arts & Crafts","slug":"arts-crafts"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9260"},"name":"Music & Instruments","slug":"music-instruments"}
+{"_id":{"$oid":"64c2342de32f4a51b19b9261"},"name":"Travel & Luggage","slug":"travel-luggage"}

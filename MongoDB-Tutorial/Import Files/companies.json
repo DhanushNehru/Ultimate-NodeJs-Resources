@@ -1,0 +1,30 @@
+{"_id":{"$oid":"64c23350e32f4a51b19b9230"},"name":"Acme Corporation","location":"New York, USA","logo":"/images/company-acme.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9231"},"name":"GlobalTech Solutions","location":"San Francisco, USA","logo":"/images/company-globaltech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9232"},"name":"Innovative Systems","location":"London, UK","logo":"/images/company-innovative.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9233"},"name":"TechNexus","location":"Berlin, Germany","logo":"/images/company-technexus.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9234"},"name":"EcoTech Industries","location":"Sydney, Australia","logo":"/images/company-ecotech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9235"},"name":"Futura Enterprises","location":"Tokyo, Japan","logo":"/images/company-futura.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9236"},"name":"Future Horizons","location":"Seoul, South Korea","logo":"/images/company-futurehorizons.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9237"},"name":"AlphaTech Solutions","location":"Toronto, Canada","logo":"/images/company-alphatech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9238"},"name":"InfoWizards","location":"Bangalore, India","logo":"/images/company-infowizards.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9239"},"name":"RoboTech Innovations","location":"Beijing, China","logo":"/images/company-robotech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923a"},"name":"GigaSystems","location":"Moscow, Russia","logo":"/images/company-gigasystems.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923b"},"name":"UrbanTech Solutions","location":"Paris, France","logo":"/images/company-urbantech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923c"},"name":"HealthTech Enterprises","location":"São Paulo, Brazil","logo":"/images/company-healthtech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923d"},"name":"SmartLiving Systems","location":"Cape Town, South Africa","logo":"/images/company-smartliving.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923e"},"name":"DataSphere Technologies","location":"New Delhi, India","logo":"/images/company-datasphere.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b923f"},"name":"Quantum Dynamics","location":"Zurich, Switzerland","logo":"/images/company-quantum.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9240"},"name":"SpaceTech Solutions","location":"Houston, USA","logo":"/images/company-spacetech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9241"},"name":"BioGen Innovations","location":"Melbourne, Australia","logo":"/images/company-biogen.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9242"},"name":"SynthCorp","location":"Berlin, Germany","logo":"/images/company-synthcorp.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9243"},"name":"Mindful Technologies","location":"Tokyo, Japan","logo":"/images/company-mindfultech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9244"},"name":"TechVille Solutions","location":"Seoul, South Korea","logo":"/images/company-techville.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9245"},"name":"AlphaGenetics","location":"Toronto, Canada","logo":"/images/company-alphagenetics.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9246"},"name":"InfoTech Wizards","location":"Bangalore, India","logo":"/images/company-infotechwizards.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9247"},"name":"NanoRobo Innovations","location":"Beijing, China","logo":"/images/company-nanorobo.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9248"},"name":"QuantumTech Systems","location":"Moscow, Russia","logo":"/images/company-quantumtech.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b9249"},"name":"UrbanScape Solutions","location":"Paris, France","logo":"/images/company-urbanscape.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b924a"},"name":"HealthVita Enterprises","location":"São Paulo, Brazil","logo":"/images/company-healthvita.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b924b"},"name":"SmartSense Systems","location":"Cape Town, South Africa","logo":"/images/company-smartsense.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b924c"},"name":"DataTech Technologies","location":"New Delhi, India","logo":"/images/company-dt.png"}
+{"_id":{"$oid":"64c23350e32f4a51b19b924d"},"name":"QuantumLeap Dynamics","location":"Zurich, Switzerland","logo":"/images/company-quantumleap.png"}
