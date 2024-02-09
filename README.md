@@ -79,6 +79,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - [NodeJs Org](https://nodejs.org/en/security/)
 - [NodeJsScan](https://github.com/ajinabraham/nodejsscan)
+- [Node.js Security](https://www.nodejs-security.com/) - Node.js Secure Coding books
 
 ## NodeJs Testing Frameworks
 - [Jest](https://jestjs.io)
