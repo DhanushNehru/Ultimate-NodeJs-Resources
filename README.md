@@ -7,8 +7,6 @@ All resources related to Node Js at one place
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
-_**Note: Please follow the maintainer of the repository for quick approval of the PR's via [Twitter](https://twitter.com/Dhanush_Nehru), [Instagram](https://www.instagram.com/dhanush_nehru/), [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1), [Github](https://github.com/DhanushNehru)**_
-
 ## [NodeJs Official Documentation](https://nodejs.org/en/docs/)
 
 ## Table of Contents
@@ -146,7 +144,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 - [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
 
-Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)
+Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
