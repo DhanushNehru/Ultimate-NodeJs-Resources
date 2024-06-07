@@ -1,11 +1,11 @@
-# [Ultimate-NodeJs-Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
+# [Ultimate-NodeJs-Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 All resources related to Node Js at one place
 
 ![alt text](./cover.png)
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
+Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## [NodeJs Official Documentation](https://nodejs.org/en/docs/)
 
@@ -147,7 +147,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resourc
 Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)
 
 Searching for a job ? This may help you
-[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
+[Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
 If you liked this repository support it by starring ⭐ 
 
