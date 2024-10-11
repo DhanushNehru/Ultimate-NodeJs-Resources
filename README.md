@@ -1,7 +1,5 @@
 # [Ultimate-NodeJs-Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
-All resources related to Node Js at one place
-
 <div align="center">
   
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
@@ -9,6 +7,8 @@ All resources related to Node Js at one place
 [![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
 
 </div>
+
+All resources related to Node Js at one place
 
 ![alt text](./cover.png)
 
@@ -152,9 +152,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 - [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
 
-Searching for a job ? This may help you
-[Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
+</br>
 
+🧩 Searching for a job ? This may help you 👉 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
+
+<br>
 If you liked this repository support it by starring ⭐ 
-
-<a href="https://ko-fi.com/dhanushnehru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="45" width="174"></a>
