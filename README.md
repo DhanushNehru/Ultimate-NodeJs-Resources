@@ -94,6 +94,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Ava](https://github.com/avajs/ava)
 - [Istanbul](https://istanbul.js.org)
 - [Node Tap](https://node-tap.org)
+- [Chai](https://www.chaijs.com/)
+- [Sinon](https://sinonjs.org/)
+- [Cypress](https://www.cypress.io/)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
