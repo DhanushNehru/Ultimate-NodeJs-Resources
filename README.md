@@ -157,7 +157,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 
 </br>
 
+---
 🧩 Searching for a job ? This may help you 👉 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
-<br>
+
 If you liked this repository support it by starring ⭐ 
