@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [NodeJs Famous Blogs](#NodeJs-Famous-Blogs)
 - [NodeJs Famous Frameworks](#NodeJs-Famous-Frameworks)
 - [Top NodeJs Website Tutorials](#Top-NodeJs-Website-Tutorials)
+- [Communities to join](#communities-to-join)
 
 ## NodeJs Topics to cover
 - [NodeJs Setup](https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm)
@@ -155,10 +156,37 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 - [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
 
+## Communities to join
+  
+Looking to learn, share, or get help with Node.js? Here are some awesome communities you can join:
+  
+- [Node.js Discord](https://discord.gg/nodejs)  
+  The official Discord server for Node.js with channels for help, projects, events, and networking.
+  
+- [Node Slackers](https://www.nodeslackers.com/)  
+  A large, active Slack community for Node.js developers. Great for Q&A and announcements.
+  
+- [Reddit Node.js](https://www.reddit.com/r/node/)  
+  A community of Node.js developers discussing news, tutorials, and ecosystem updates.
+  
+- [Stack Overflow - Node.js](https://stackoverflow.com/questions/tagged/node.js)  
+  Find answers to specific Node.js questions or contribute by helping others.
+  
+- [NodeSchool](https://nodeschool.io/)  
+  Open-source workshops and local events to learn Node.js through hands-on exercises.
+  
+- [Node.js Discussions](https://github.com/nodejs/node/discussions)  
+  Join long-form discussions, propose ideas, or ask questions directly in the Node.js org.
+  
+- [Node.js Meetups](https://www.meetup.com/topics/nodejs/)  
+  Find local and virtual Node.js meetups around the world to learn and network.
+  
+- **[`#node.js` on Freenode](http://webchat.freenode.net/?channels=node.js)** – Legacy IRC chat for Node.js developers.
+
 </br>
 
 ---
 🧩 Searching for a job ? This may help you 👉 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
 
-If you liked this repository support it by starring ⭐ 
+If you liked this repository support it by starring ⭐
