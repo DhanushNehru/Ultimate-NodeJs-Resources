@@ -15,7 +15,7 @@ We kindly ask that you follow these steps to make your contribution easy to revi
 
 1.  **Create a Dedicated Branch**: Always work in a separate branch, not on `main`. Name your branch something descriptive, like `feat/add-project-name`.
     ```bash
-    git checkout -b feat/add-your-project-name
+    git checkout -b feat/add-project-name
     ```
 2.  **One Change Per PR**: Please submit only one new link or suggestion per pull request. This keeps changes focused and makes the review process much faster.
 
