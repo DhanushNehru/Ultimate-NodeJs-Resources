@@ -181,7 +181,7 @@ Looking to learn, share, or get help with Node.js? Here are some awesome communi
 - [Node.js Meetups](https://www.meetup.com/topics/nodejs/)  
   Find local and virtual Node.js meetups around the world to learn and network.
   
-- **[`#node.js` on Freenode](http://webchat.freenode.net/?channels=node.js)** – Legacy IRC chat for Node.js developers.
+- **[`#node.js` on Libera.Chat](https://web.libera.chat/#node.js)** – Official IRC chat for Node.js developers.
 
 </br>
 
