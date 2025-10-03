@@ -1,0 +1,345 @@
+/* Light Green and Black Theme for Node.js Documentation */
+:root {
+  --primary-green: #4ade80;
+  --light-green: #dcfce7;
+  --dark-green: #16a34a;
+  --very-light-green: #f0fdf4;
+  --black: #0f172a;
+  --dark-gray: #1e293b;
+  --medium-gray: #475569;
+  --light-gray: #e2e8f0;
+  --white: #ffffff;
+  --border-color: #e5e7eb;
+  --hover-bg: #f8fafc;
+  --code-bg: #1e293b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--white);
+  color: var(--black);
+  line-height: 1.6;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: linear-gradient(135deg, var(--black) 0%, var(--dark-gray) 100%);
+  color: var(--white);
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 3px solid var(--primary-green);
+}
+
+.app-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(45deg, var(--primary-green), var(--light-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.app-subtitle {
+  font-size: 1.1rem;
+  color: var(--light-gray);
+  font-weight: 300;
+}
+
+.app-body {
+  display: flex;
+  flex: 1;
+  min-height: calc(100vh - 140px);
+}
+
+/* Sidebar Styles */
+.sidebar {
+  width: 300px;
+  background-color: var(--very-light-green);
+  border-right: 2px solid var(--light-green);
+  padding: 0;
+  overflow-y: auto;
+}
+
+.sidebar-header {
+  padding: 1.5rem;
+  background-color: var(--light-green);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar-header h3 {
+  color: var(--dark-green);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.sidebar-nav {
+  padding: 1rem 0;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 1.5rem;
+  border: none;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-left: 3px solid transparent;
+  color: var(--black);
+}
+
+.nav-item:hover {
+  background-color: var(--light-green);
+  border-left-color: var(--primary-green);
+}
+
+.nav-item.active {
+  background-color: var(--primary-green);
+  color: var(--white);
+  border-left-color: var(--dark-green);
+  font-weight: 600;
+}
+
+.nav-icon {
+  font-size: 1.2rem;
+  margin-right: 0.75rem;
+  width: 24px;
+  text-align: center;
+}
+
+.nav-title {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Content Display Styles */
+.content-display {
+  flex: 1;
+  padding: 0;
+  overflow-y: auto;
+  background-color: var(--white);
+}
+
+.content-header {
+  background: linear-gradient(135deg, var(--very-light-green) 0%, var(--light-green) 100%);
+  padding: 2rem;
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.content-title-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.content-icon {
+  font-size: 2rem;
+  margin-right: 1rem;
+  background-color: var(--primary-green);
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+.content-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--black);
+  margin: 0;
+}
+
+.content-meta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.content-category {
+  background-color: var(--primary-green);
+  color: var(--white);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.content-time {
+  color: var(--medium-gray);
+  font-size: 0.9rem;
+}
+
+.content-body {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Markdown Content Styles */
+.content-h1 {
+  font-size: 2rem;
+  color: var(--black);
+  margin: 2rem 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--primary-green);
+}
+
+.content-h2 {
+  font-size: 1.5rem;
+  color: var(--dark-gray);
+  margin: 1.5rem 0 1rem 0;
+  position: relative;
+}
+
+.content-h2::before {
+  content: '';
+  position: absolute;
+  left: -1rem;
+  top: 0.5rem;
+  width: 4px;
+  height: 1.5rem;
+  background-color: var(--primary-green);
+  border-radius: 2px;
+}
+
+.content-h3 {
+  font-size: 1.25rem;
+  color: var(--dark-gray);
+  margin: 1.25rem 0 0.75rem 0;
+}
+
+.content-p {
+  margin-bottom: 1rem;
+  color: var(--black);
+  line-height: 1.7;
+}
+
+.content-ul, .content-ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.content-li {
+  margin-bottom: 0.5rem;
+  color: var(--black);
+}
+
+.content-li::marker {
+  color: var(--primary-green);
+}
+
+.content-blockquote {
+  background-color: var(--very-light-green);
+  border-left: 4px solid var(--primary-green);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: var(--dark-gray);
+}
+
+.content-link {
+  color: var(--dark-green);
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.content-link:hover {
+  border-bottom-color: var(--primary-green);
+  color: var(--primary-green);
+}
+
+/* Code Styles */
+code {
+  background-color: var(--light-green) !important;
+  color: var(--dark-green) !important;
+  padding: 0.2rem 0.4rem !important;
+  border-radius: 4px !important;
+  font-family: 'Fira Code', 'Monaco', 'Cascadia Code', monospace !important;
+  font-size: 0.9rem !important;
+}
+
+pre {
+  background-color: var(--code-bg) !important;
+  border-radius: 8px !important;
+  margin: 1.5rem 0 !important;
+  overflow-x: auto !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+pre code {
+  background-color: transparent !important;
+  color: inherit !important;
+  padding: 1rem !important;
+  display: block !important;
+}
+
+/* Syntax Highlighter Override */
+.content-body pre[class*="language-"] {
+  background: var(--code-bg) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 8px !important;
+  margin: 1.5rem 0 !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .app-body {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: 100%;
+    max-height: 300px;
+  }
+  
+  .app-title {
+    font-size: 2rem;
+  }
+  
+  .content-display {
+    padding: 1rem;
+  }
+  
+  .content-header {
+    padding: 1.5rem;
+  }
+  
+  .content-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light-gray);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary-green);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--dark-green);
+}
