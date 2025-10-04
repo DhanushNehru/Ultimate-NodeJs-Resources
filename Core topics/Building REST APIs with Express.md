@@ -71,8 +71,13 @@ app.put('/todos/:id', (req, res) => {
     const { title, completed } = req.body
     const idx = todos.findIndex(t => t.id === id)
     if (idx === -1) return res.status(404).json({ error: 'Not found' })
-    todos[idx] = { ...todos[idx], title: title ?? todos[idx].title, completed: completed ?? todos[idx].completed }
-    res.json(todos[idx])
+    const updatedTodo = {
+        ...todos[idx],
+        title: title ?? todos[idx].title,
+        completed: completed ?? todos[idx].completed
+    }
+    todos[idx] = updatedTodo
+    res.json(updatedTodo)
 })
 
 // Delete a todo
