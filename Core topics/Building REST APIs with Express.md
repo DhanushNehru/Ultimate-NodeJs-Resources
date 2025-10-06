@@ -73,8 +73,8 @@ app.put('/todos/:id', (req, res) => {
     if (idx === -1) return res.status(404).json({ error: 'Not found' })
     const updatedTodo = {
         ...todos[idx],
-        title: title ?? todos[idx].title,
-        completed: completed ?? todos[idx].completed
+        title: (typeof title !== 'undefined' && title !== '') ? title : todos[idx].title,
+        completed: (typeof completed === 'boolean') ? completed : todos[idx].completed
     }
     todos[idx] = updatedTodo
     res.json(updatedTodo)
