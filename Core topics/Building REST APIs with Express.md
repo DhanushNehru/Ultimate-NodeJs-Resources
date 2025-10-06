@@ -123,7 +123,7 @@ curl -X DELETE http://localhost:3000/todos/1
 
 ### Notes and next steps
 
-- For production use add input validation (e.g., Joi), structured logging, CORS, helmet, rate limiting, and tests.
+- For production use, add input validation (e.g., Joi), structured logging, CORS, helmet, rate limiting, and tests.
 - Use a database (Postgres, MongoDB) instead of in-memory arrays.
 - Consider using TypeScript for better DX and maintainability.
 
