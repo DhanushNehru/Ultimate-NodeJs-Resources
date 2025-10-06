@@ -10,7 +10,7 @@ const Sidebar = ({ documents, selectedDocument, onDocumentSelect }) => {
       <nav className="sidebar-nav">
         {documents.map((doc, index) => (
           <button
-            key={index}
+            key={doc.id}
             className={`nav-item ${selectedDocument.id === doc.id ? 'active' : ''}`}
             onClick={() => onDocumentSelect(doc)}
           >
