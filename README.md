@@ -122,6 +122,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Hackernoon](http://hackernoon.com)
 - [Stackify](https://stackify.com/blog/)
 - [HashNode](https://hashnode.com/n/javascript)
+- [Advanced Node JS Concepts](https://medium.com/@khaledq_43881/advanced-node-js-concepts-a-comprehensive-guide-for-senior-engineers-8e49a5456b60)
   
 ## NodeJs Famous Frameworks
 - [Hapi.js](https://hapi.dev)
