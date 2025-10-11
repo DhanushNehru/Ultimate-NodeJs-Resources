@@ -4,7 +4,7 @@
 
 Make sure you have Node.js (v16 or above) installed.
 
-# cd/frontend/views
+# cd frontend/views
 # 2. npm install
 
 # 3. Start the development server
