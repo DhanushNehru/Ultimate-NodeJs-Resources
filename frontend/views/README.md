@@ -8,7 +8,7 @@ Make sure you have Node.js (v16 or above) installed.
 # 2. npm install
 
 # 3. Start the development server
-cd/src/
+cd src/
 npm run dev
 
 
