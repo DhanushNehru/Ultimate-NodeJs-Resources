@@ -2,9 +2,15 @@
 
 <div align="center">
 
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
-[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
-[![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
+<a href="https://discord.com/invite/Yn9g6KuWyA">
+<img src="https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge" alt="Join Our Discord" />
+</a>
+<a href="https://www.youtube.com/@dhanushnehru?sub_confirmation=1">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube" />
+</a>
+<a href="https://dhanushn.substack.com/">
+<img src="https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge" alt="Subscribe to Newsletter" />
+</a>
 
 </div>
 
