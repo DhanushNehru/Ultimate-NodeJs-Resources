@@ -113,15 +113,15 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 
 ## NodeJs Famous Blogs
 - [Dev.to](http://dev.to/t/node)
-- [Quick Code](https://medium.com/quick-code)
-- [Node Weekly](http://nodeweekly.com/issues)
-- [How to node](http://howtonode.org)
-- [Reddit](https://www.reddit.com/r/node/)
-- [To the new](https://www.tothenew.com/blog/)
 - [Free Code Camp](http://medium.freecodecamp.org)
 - [Hackernoon](http://hackernoon.com)
-- [Stackify](https://stackify.com/blog/)
 - [HashNode](https://hashnode.com/n/javascript)
+- [How to node](http://howtonode.org)
+- [Node Weekly](http://nodeweekly.com/issues)
+- [Quick Code](https://medium.com/quick-code)
+- [Reddit](https://www.reddit.com/r/node/)
+- [Stackify](https://stackify.com/blog/)
+- [To the new](https://www.tothenew.com/blog/) 
   
 ## NodeJs Famous Frameworks
 - [Hapi.js](https://hapi.dev)
