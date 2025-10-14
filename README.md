@@ -121,7 +121,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Quick Code](https://medium.com/quick-code)
 - [Reddit](https://www.reddit.com/r/node/)
 - [Stackify](https://stackify.com/blog/)
-- [To the new](https://www.tothenew.com/blog/) 
+- [To the new](https://www.tothenew.com/blog/)
   
 ## NodeJs Famous Frameworks
 - [Hapi.js](https://hapi.dev)
