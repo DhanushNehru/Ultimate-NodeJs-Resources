@@ -147,7 +147,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 ## Top NodeJs Website Tutorials
 - [Codeacademy](https://www.codecademy.com/learn/learn-node-js)
 - [JavaTpoint](https://www.javatpoint.com/nodejs-tutorial)
-- [JavaTPoint](https://www.javatpoint.com/nodejs-tutorial)
 - [Kinsta Academy](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 - [NodeJs.Dev](https://nodejs.dev/learn)
 - [Nodeschool](https://nodeschool.io)
