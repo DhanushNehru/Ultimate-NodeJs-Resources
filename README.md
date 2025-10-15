@@ -133,7 +133,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Keystone.js](https://www.keystonejs.com)
 - [Koa.js](https://koajs.com)
 - [Loopback](https://loopback.io)
-- [Loopback.io](https://loopback.io)
 - [Mean.js](http://meanjs.org)
 - [Meteor.js](https://guide.meteor.com)
 - [Nest.js](https://nestjs.com)
