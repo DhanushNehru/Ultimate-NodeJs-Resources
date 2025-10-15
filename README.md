@@ -88,15 +88,15 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Node.js Security](https://www.nodejs-security.com/) - Node.js Secure Coding books
 
 ## NodeJs Testing Frameworks
+- [Ava](https://github.com/avajs/ava)
+- [Chai](https://www.chaijs.com/)
+- [Cypress](https://www.cypress.io/)
+- [Istanbul](https://istanbul.js.org)
+- [Jasmine](https://jasmine.github.io/setup/nodejs.html)
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
-- [Jasmine](https://jasmine.github.io/setup/nodejs.html)
-- [Ava](https://github.com/avajs/ava)
-- [Istanbul](https://istanbul.js.org)
 - [Node Tap](https://node-tap.org)
-- [Chai](https://www.chaijs.com/)
 - [Sinon](https://sinonjs.org/)
-- [Cypress](https://www.cypress.io/)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
