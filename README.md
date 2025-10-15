@@ -116,6 +116,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
 - [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
 - [Coder Dost](https://www.youtube.com/watch?v=ChVE-JbtYbM)
+- [Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
 ## NodeJs Famous Blogs
 - [Dev.to](http://dev.to/t/node)
