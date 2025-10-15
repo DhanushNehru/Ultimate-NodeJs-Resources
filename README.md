@@ -116,6 +116,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Free Code Camp](http://medium.freecodecamp.org)
 - [Hackernoon](http://hackernoon.com)
 - [HashNode](https://hashnode.com/n/javascript)
+- [Advanced Node JS Concepts](https://medium.com/@khaledq_43881/advanced-node-js-concepts-a-comprehensive-guide-for-senior-engineers-8e49a5456b60)
 - [How to node](http://howtonode.org)
 - [Node Weekly](http://nodeweekly.com/issues)
 - [Quick Code](https://medium.com/quick-code)
