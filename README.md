@@ -138,8 +138,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Nest.js](https://nestjs.com)
 - [Next.js](https://nextjs.org/docs)
 - [Restify.js](http://restify.com)
-- [Sail.js](https://sailsjs.com/get-started)
-- [Salis.js](https://sailsjs.com)
+- [Sails.js](https://sailsjs.com/get-started)
 - [Socket.io](https://socket.io/get-started/chat)
 - [Total.js](https://www.totaljs.com)
 
