@@ -139,7 +139,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Next.js](https://nextjs.org/docs)
 - [Restify.js](https://restify.com)
 - [Sails.js](https://sailsjs.com/get-started)
-- [Socket.io](https://socket.io/get-started/chat)
+- [Socket.IO](https://socket.io/get-started/chat)
 - [Total.js](https://www.totaljs.com)
 
 ## Top NodeJs Website Tutorials
