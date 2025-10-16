@@ -137,7 +137,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Meteor.js](https://guide.meteor.com)
 - [Nest.js](https://nestjs.com)
 - [Next.js](https://nextjs.org/docs)
-- [Restify.js](http://restify.com)
+- [Restify.js](https://restify.com)
 - [Sails.js](https://sailsjs.com/get-started)
 - [Socket.io](https://socket.io/get-started/chat)
 - [Total.js](https://www.totaljs.com)
