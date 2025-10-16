@@ -128,7 +128,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Derby.js](https://www.derbyjs.com)
 - [Diet.js](http://dietjs.com)
 - [Express.js](https://expressjs.com)
-- [Feather.js](https://feathersjs.com)
+- [Feathers.js](https://feathersjs.com)
 - [Hapi.js](https://hapi.dev)
 - [Keystone.js](https://www.keystonejs.com)
 - [Koa.js](https://koajs.com)
