@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
 - [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
+- [Node JS Best practices to Follow](https://www.bacancytechnology.com/blog/node-js-best-practices)
 - [Coder Dost](https://www.youtube.com/watch?v=ChVE-JbtYbM)
 - [Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
