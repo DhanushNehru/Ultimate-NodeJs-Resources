@@ -31,7 +31,7 @@ function App() {
       return
     }
 
-    const nextTheme = theme === 'dark' ? 'dark' : 'light'
+    const nextTheme = theme
     const { body, documentElement } = document
 
     if (!body || !documentElement) {
