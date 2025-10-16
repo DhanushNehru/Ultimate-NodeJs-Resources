@@ -123,7 +123,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Stackify](https://stackify.com/blog/)
 - [HashNode](https://hashnode.com/n/javascript)
   
-## NodeJs Famous Frameworks
+## Node.js Famous Frameworks
 - [Adonis.js](https://adonisjs.com)
 - [Derby.js](https://www.derbyjs.com)
 - [Diet.js](http://dietjs.com)
