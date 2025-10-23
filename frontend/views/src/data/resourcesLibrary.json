@@ -1,0 +1,389 @@
+[
+  {
+    "id": "nodejs-topics",
+    "title": "Node.js Topics to Cover",
+    "description": "Essential tutorials and explanations to build a strong Node.js foundation.",
+    "items": [
+      {
+        "id": "nodejs-setup",
+        "name": "Node.js Environment Setup",
+        "url": "https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm",
+        "type": "Article",
+        "description": "Step-by-step guide to installing Node.js and npm the right way.",
+        "tags": ["beginner", "setup", "article"]
+      },
+      {
+        "id": "networking-basics",
+        "name": "Networking Basics for Web Developers",
+        "url": "https://www.youtube.com/watch?v=YSyFSnisip0",
+        "type": "Video",
+        "description": "Understand the core networking concepts every backend engineer needs.",
+        "tags": ["networking", "video", "fundamentals"]
+      },
+      {
+        "id": "first-node-app",
+        "name": "Build Your First Node.js Application",
+        "url": "https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm",
+        "type": "Article",
+        "description": "Create a basic Node.js program and learn how the runtime executes it.",
+        "tags": ["beginner", "hands-on", "article"]
+      },
+      {
+        "id": "event-loop-deep-dive",
+        "name": "Node.js Event Lifecycle and Event Loop",
+        "url": "https://www.youtube.com/watch?v=qZ_rLRsJ1tU",
+        "type": "Video",
+        "description": "Visual explanation of the call stack, callback queue, and libuv.",
+        "tags": ["event-loop", "video", "internals"]
+      },
+      {
+        "id": "event-blocking",
+        "name": "Don't Block the Event Loop",
+        "url": "https://nodejs.org/en/docs/guides/dont-block-the-event-loop/",
+        "type": "Guide",
+        "description": "Official recommendations on keeping the event loop responsive.",
+        "tags": ["best-practices", "performance", "official"]
+      },
+      {
+        "id": "callbacks-intro",
+        "name": "JavaScript Callbacks Explained",
+        "url": "https://www.youtube.com/watch?v=ui4-OADfgIk",
+        "type": "Video",
+        "description": "Learn how callback patterns power asynchronous Node.js APIs.",
+        "tags": ["async", "callbacks", "video"]
+      },
+      {
+        "id": "async-await-overview",
+        "name": "Async / Await Crash Course",
+        "url": "https://www.youtube.com/watch?v=V_Kr9OSfDeU",
+        "type": "Video",
+        "description": "Use async and await to write clean asynchronous JavaScript.",
+        "tags": ["async", "promises", "video"]
+      },
+      {
+        "id": "express-basics",
+        "name": "Express.js in One Video",
+        "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+        "type": "Video",
+        "description": "Build REST APIs quickly with Express.js routing and middleware.",
+        "tags": ["express", "api", "video"]
+      },
+      {
+        "id": "ejs-docs",
+        "name": "EJS Template Engine Documentation",
+        "url": "http://ejs.co/#docs",
+        "type": "Docs",
+        "description": "Full reference for authoring server-rendered EJS templates.",
+        "tags": ["templating", "server-render", "docs"]
+      },
+      {
+        "id": "mvc-pattern",
+        "name": "Model-View-Controller Pattern",
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/MVC",
+        "type": "Article",
+        "description": "MDN glossary entry summarizing the MVC architectural pattern.",
+        "tags": ["architecture", "patterns", "article"]
+      },
+      {
+        "id": "rest-principles",
+        "name": "REST API Design Principles",
+        "url": "https://www.youtube.com/watch?v=7YcW25PHnAA",
+        "type": "Video",
+        "description": "Learn the fundamentals behind RESTful service design.",
+        "tags": ["api", "rest", "video"]
+      },
+      {
+        "id": "sessions-and-tokens",
+        "name": "Sessions vs Tokens in Node.js",
+        "url": "https://www.geeksforgeeks.org/session-cookies-in-node-js/",
+        "type": "Article",
+        "description": "Compare stateful and stateless authentication techniques.",
+        "tags": ["auth", "security", "article"]
+      },
+      {
+        "id": "file-handling",
+        "name": "Handling Files in Node.js",
+        "url": "https://www.youtube.com/watch?v=ZySsdm576wE",
+        "type": "Video",
+        "description": "Work with the built-in fs module for file IO tasks.",
+        "tags": ["filesystem", "video", "hands-on"]
+      },
+      {
+        "id": "multer-upload",
+        "name": "File Uploads with Multer",
+        "url": "https://www.youtube.com/watch?v=EVOFt8Its6I",
+        "type": "Video",
+        "description": "Implement multipart/form-data uploads in Express using Multer.",
+        "tags": ["filesystem", "express", "video"]
+      },
+      {
+        "id": "websockets-intro",
+        "name": "WebSockets 101",
+        "url": "https://www.youtube.com/watch?v=jD7FnbI76Hg",
+        "type": "Video",
+        "description": "Real-time communication patterns with Socket.IO and websockets.",
+        "tags": ["realtime", "websockets", "video"]
+      },
+      {
+        "id": "package-json-guide",
+        "name": "Understanding package.json",
+        "url": "https://www.youtube.com/watch?v=-SaZiADGLHs",
+        "type": "Video",
+        "description": "Break down the metadata that powers every Node.js project.",
+        "tags": ["npm", "tooling", "video"]
+      },
+      {
+        "id": "node-testing",
+        "name": "Testing Node.js Applications",
+        "url": "https://www.youtube.com/watch?v=Bs68k6xfR3E",
+        "type": "Video",
+        "description": "Overview of unit and integration testing workflows in Node.js.",
+        "tags": ["testing", "qa", "video"]
+      },
+      {
+        "id": "heroku-reference",
+        "name": "Heroku Reference Docs",
+        "url": "https://devcenter.heroku.com/categories/reference",
+        "type": "Docs",
+        "description": "Platform documentation for deploying Node.js services to Heroku.",
+        "tags": ["deployment", "cloud", "docs"]
+      },
+      {
+        "id": "arrow-functions",
+        "name": "Modern JavaScript Arrow Functions",
+        "url": "https://www.programiz.com/javascript/arrow-function",
+        "type": "Article",
+        "description": "Learn ES6 arrow function syntax and when to use it in Node.js.",
+        "tags": ["javascript", "syntax", "article"]
+      },
+      {
+        "id": "node-architecture",
+        "name": "Node.js Architecture Overview",
+        "url": "https://www.scaler.com/topics/nodejs/node-js-architecture/",
+        "type": "Article",
+        "description": "Understand how Node.js orchestrates the V8 engine, libuv, and modules.",
+        "tags": ["architecture", "internals", "article"]
+      },
+      {
+        "id": "cli-tools",
+        "name": "Build CLI Tools with Node.js",
+        "url": "https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi",
+        "type": "Article",
+        "description": "Practical tutorial on crafting developer-friendly CLI utilities.",
+        "tags": ["cli", "tooling", "article"]
+      },
+      {
+        "id": "node-roadmap",
+        "name": "Node.js Learning Roadmap",
+        "url": "https://roadmap.sh/nodejs",
+        "type": "Roadmap",
+        "description": "Interactive progression guide covering beginner through advanced topics.",
+        "tags": ["roadmap", "planning", "interactive"]
+      }
+    ]
+  },
+  {
+    "id": "github-repositories",
+    "title": "Node.js Related GitHub Repositories",
+    "description": "Battle-tested open source projects and curated lists from the Node.js ecosystem.",
+    "items": [
+      {
+        "id": "nodejs-core",
+        "name": "Node.js Core",
+        "url": "https://github.com/nodejs/node",
+        "type": "Repository",
+        "description": "Official Node.js runtime maintained by the OpenJS Foundation.",
+        "tags": ["open-source", "runtime", "official"]
+      },
+      {
+        "id": "nvm",
+        "name": "Node Version Manager (nvm)",
+        "url": "https://github.com/nvm-sh/nvm",
+        "type": "Repository",
+        "description": "Shell-based version manager for installing and switching Node.js versions.",
+        "tags": ["tooling", "cli", "open-source"]
+      },
+      {
+        "id": "art-of-node",
+        "name": "The Art of Node",
+        "url": "https://github.com/maxogden/art-of-node",
+        "type": "Repository",
+        "description": "Guide-style repository that covers Node.js fundamentals with examples.",
+        "tags": ["learning", "guide", "open-source"]
+      },
+      {
+        "id": "nodemon",
+        "name": "Nodemon",
+        "url": "https://github.com/remy/nodemon",
+        "type": "Repository",
+        "description": "Dev-time utility that automatically restarts your Node app on file changes.",
+        "tags": ["tooling", "devtools", "open-source"]
+      },
+      {
+        "id": "awesome-nodejs",
+        "name": "Awesome Node.js",
+        "url": "https://github.com/sindresorhus/awesome-nodejs",
+        "type": "Repository",
+        "description": "Comprehensive list of awesome Node.js packages and resources.",
+        "tags": ["awesome-list", "curated", "open-source"]
+      },
+      {
+        "id": "awesome-npm",
+        "name": "Awesome npm",
+        "url": "https://github.com/sindresorhus/awesome-npm",
+        "type": "Repository",
+        "description": "Curated collection of npm tips, tricks, and best packages.",
+        "tags": ["npm", "curated", "open-source"]
+      },
+      {
+        "id": "awesome-node-security",
+        "name": "Awesome Node.js Security",
+        "url": "https://github.com/lirantal/awesome-nodejs-security",
+        "type": "Repository",
+        "description": "Security-focused Node.js libraries, best practices, and tooling.",
+        "tags": ["security", "awesome-list", "open-source"]
+      },
+      {
+        "id": "docker-node",
+        "name": "Docker Node.js Images",
+        "url": "https://github.com/nodejs/docker-node",
+        "type": "Repository",
+        "description": "Official Docker images for running Node.js in containers.",
+        "tags": ["docker", "deployment", "official"]
+      },
+      {
+        "id": "node-best-practices",
+        "name": "Node.js Best Practices",
+        "url": "https://github.com/goldbergyoni/nodebestpractices",
+        "type": "Repository",
+        "description": "Opinionated guide to leading Node.js design patterns and rules.",
+        "tags": ["best-practices", "architecture", "open-source"]
+      }
+    ]
+  },
+  {
+    "id": "nodejs-ides",
+    "title": "Node.js IDEs",
+    "description": "Developer environments and editors optimized for Node.js workflows.",
+    "items": [
+      {"id": "aptana", "name": "Aptana Studio", "url": "http://www.aptana.com/", "type": "Tool", "description": "Open-source IDE tailored for web technologies including Node.js.", "tags": ["ide", "tooling", "desktop"]},
+      {"id": "atom", "name": "Atom", "url": "https://atom.io/", "type": "Tool", "description": "Hackable text editor from GitHub with rich Node.js plugin ecosystem.", "tags": ["editor", "open-source", "desktop"]},
+      {"id": "brackets", "name": "Brackets", "url": "http://brackets.io/index.html", "type": "Tool", "description": "Lightweight code editor geared toward web development.", "tags": ["editor", "web", "desktop"]},
+      {"id": "cloud9", "name": "AWS Cloud9", "url": "https://aws.amazon.com/cloud9/", "type": "Tool", "description": "Cloud-based IDE with collaborative editing and AWS integration.", "tags": ["cloud", "ide", "collaboration"]},
+      {"id": "codelobster", "name": "Codelobster", "url": "https://www.codelobster.com/", "type": "Tool", "description": "Multi-language IDE with Node.js debugging support.", "tags": ["ide", "debugging", "desktop"]},
+      {"id": "eclipse", "name": "Eclipse", "url": "https://eclipseide.org/", "type": "Tool", "description": "Extensible IDE with plugins for JavaScript and Node.js development.", "tags": ["ide", "extensible", "desktop"]},
+      {"id": "gitpod", "name": "Gitpod", "url": "https://www.gitpod.io/", "type": "Tool", "description": "Dev-environment-as-code platform ready for Node.js projects in the cloud.", "tags": ["cloud", "automation", "ide"]},
+      {"id": "intellij-idea", "name": "IntelliJ IDEA", "url": "https://www.jetbrains.com/idea/", "type": "Tool", "description": "Full-powered IDE with JavaScript and Node.js tooling from JetBrains.", "tags": ["ide", "jetbrains", "desktop"]},
+      {"id": "koding", "name": "Koding", "url": "https://www.koding.com/", "type": "Tool", "description": "Developer workspaces in the cloud with collaborative features.", "tags": ["cloud", "workspace", "collaboration"]},
+      {"id": "komodo", "name": "Komodo IDE", "url": "https://www.activestate.com/products/komodo-ide/", "type": "Tool", "description": "Polyglot IDE that includes Node.js debugging and profiling tools.", "tags": ["ide", "debugging", "desktop"]},
+      {"id": "netbeans", "name": "NetBeans", "url": "https://netbeans.apache.org/", "type": "Tool", "description": "Apache NetBeans with out-of-the-box Node.js editing support.", "tags": ["ide", "open-source", "desktop"]},
+      {"id": "sublime-text", "name": "Sublime Text", "url": "http://www.sublimetext.com/", "type": "Tool", "description": "High-performance code editor with rich Node.js package ecosystem.", "tags": ["editor", "performance", "desktop"]},
+      {"id": "vscode", "name": "Visual Studio Code", "url": "https://code.visualstudio.com/download", "type": "Tool", "description": "Microsoft's free editor with first-class Node.js and TypeScript support.", "tags": ["editor", "microsoft", "desktop"]},
+      {"id": "webmatrix", "name": "WebMatrix", "url": "https://www.microsoft.com/Web/webmatrix/node.aspx", "type": "Tool", "description": "Retired lightweight web IDE that still offers Node.js samples.", "tags": ["legacy", "ide", "desktop"]},
+      {"id": "webstorm", "name": "WebStorm", "url": "https://www.jetbrains.com/webstorm/", "type": "Tool", "description": "JavaScript-first IDE with deep Node.js integrations and refactoring.", "tags": ["ide", "jetbrains", "desktop"]}
+    ]
+  },
+  {
+    "id": "nodejs-security",
+    "title": "Node.js Security",
+    "description": "Protect your applications with vetted guides and vulnerability tooling.",
+    "items": [
+      {"id": "owasp-node", "name": "OWASP Node.js Cheat Sheet", "url": "https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html", "type": "Guide", "description": "OWASP best practices to secure Node.js applications end-to-end.", "tags": ["security", "best-practices", "owasp"]},
+      {"id": "nodejs-security-site", "name": "Node.js Security Releases", "url": "https://nodejs.org/en/security/", "type": "Docs", "description": "Official security policies, release notes, and vulnerability disclosures.", "tags": ["security", "official", "updates"]},
+      {"id": "nodejsscan", "name": "NodeJsScan", "url": "https://github.com/ajinabraham/nodejsscan", "type": "Repository", "description": "Static security scanner to detect insecure Node.js code patterns.", "tags": ["security", "scanner", "open-source"]},
+      {"id": "nodejs-secure-coding", "name": "Node.js Secure Coding", "url": "https://www.nodejs-security.com/", "type": "Guide", "description": "Secure coding handbooks tailored specifically for Node.js developers.", "tags": ["security", "training", "best-practices"]}
+    ]
+  },
+  {
+    "id": "testing-frameworks",
+    "title": "Node.js Testing Frameworks",
+    "description": "Testing libraries and tooling to keep your Node.js codebase reliable.",
+    "items": [
+      {"id": "ava", "name": "AVA", "url": "https://github.com/avajs/ava", "type": "Repository", "description": "Minimal test runner with concurrent execution and zero config.", "tags": ["testing", "runner", "open-source"]},
+      {"id": "chai", "name": "Chai", "url": "https://www.chaijs.com/", "type": "Library", "description": "Assertion library offering BDD and TDD style syntax.", "tags": ["testing", "assertions", "library"]},
+      {"id": "cypress", "name": "Cypress", "url": "https://www.cypress.io/", "type": "Tool", "description": "End-to-end testing platform with real-time reloading and snapshots.", "tags": ["testing", "e2e", "tooling"]},
+      {"id": "istanbul", "name": "Istanbul", "url": "https://istanbul.js.org", "type": "Tool", "description": "Code coverage toolkit powering nyc, Jest, and more.", "tags": ["testing", "coverage", "tooling"]},
+      {"id": "jasmine", "name": "Jasmine", "url": "https://jasmine.github.io/setup/nodejs.html", "type": "Library", "description": "Behavior-driven testing framework for Node.js and the browser.", "tags": ["testing", "bdd", "library"]},
+      {"id": "jest", "name": "Jest", "url": "https://jestjs.io", "type": "Library", "description": "Delightful JavaScript testing with mocking, snapshots, and watch mode.", "tags": ["testing", "unit", "library"]},
+      {"id": "mocha", "name": "Mocha", "url": "https://mochajs.org", "type": "Library", "description": "Flexible Node.js test runner with async support and reporters.", "tags": ["testing", "runner", "library"]},
+      {"id": "node-tap", "name": "Node Tap", "url": "https://node-tap.org", "type": "Library", "description": "Test Anything Protocol (TAP) harness for Node.js projects.", "tags": ["testing", "tap", "library"]},
+      {"id": "sinon", "name": "Sinon", "url": "https://sinonjs.org/", "type": "Library", "description": "Standalone test spies, stubs, and mocks for JavaScript.", "tags": ["testing", "mocks", "library"]}
+    ]
+  },
+  {
+    "id": "youtube-channels",
+    "title": "Node.js YouTube Channels",
+    "description": "Creators publishing tutorials, deep dives, and project walkthroughs.",
+    "items": [
+      {"id": "mosh", "name": "Programming with Mosh", "url": "https://www.youtube.com/watch?v=uVwtVBpw7RQ", "type": "Channel", "description": "In-depth Node.js course that covers REST APIs and deployment.", "tags": ["video", "long-form", "beginner"]},
+      {"id": "academind", "name": "Academind", "url": "https://www.youtube.com/watch?v=65a5QQ3ZR2g", "type": "Channel", "description": "Practical Node.js tutorials with frontend integration insights.", "tags": ["video", "practical", "fullstack"]},
+      {"id": "programming-knowledge", "name": "ProgrammingKnowledge", "url": "https://www.youtube.com/watch?v=spPtAEmwys4", "type": "Channel", "description": "Comprehensive Node.js playlist covering core modules and Express.", "tags": ["video", "playlist", "beginner"]},
+      {"id": "coding-train", "name": "The Coding Train", "url": "https://www.youtube.com/watch?v=RF5_MPSNAtU", "type": "Channel", "description": "Creative coding challenges including real-time Node.js demos.", "tags": ["video", "creative", "projects"]},
+      {"id": "edureka", "name": "Edureka", "url": "https://www.youtube.com/watch?v=uk2gSHbnhAI", "type": "Channel", "description": "Instructor-led breakdown of Node.js architecture and ecosystem.", "tags": ["video", "beginner", "overview"]},
+      {"id": "learncode-academy", "name": "LearnCode.academy", "url": "https://www.youtube.com/watch?v=pU9Q6oiQNd0", "type": "Channel", "description": "Node.js crash courses with REST API and database integration.", "tags": ["video", "crash-course", "api"]},
+      {"id": "traversy-media", "name": "Traversy Media", "url": "https://www.youtube.com/watch?v=U8XF6AFGqlc", "type": "Channel", "description": "Project-based Node.js lessons and MERN stack walkthroughs.", "tags": ["video", "project", "fullstack"]},
+      {"id": "code-school", "name": "Code School", "url": "https://www.youtube.com/watch?v=GJmFG4ffJZU", "type": "Channel", "description": "Classic Node.js videos with digestible explanations and examples.", "tags": ["video", "classic", "overview"]},
+      {"id": "the-net-ninja", "name": "The Net Ninja", "url": "https://www.youtube.com/watch?v=1US-P13yKVs", "type": "Channel", "description": "Extensive Node.js series including auth, JWT, and GraphQL.", "tags": ["video", "series", "intermediate"]},
+      {"id": "javascript-mastery", "name": "JavaScript Mastery", "url": "https://www.youtube.com/watch?v=l8WPWK9mS5M", "type": "Channel", "description": "Modern Node.js projects with React and Next.js integrations.", "tags": ["video", "modern", "projects"]},
+      {"id": "coder-dost", "name": "Coder Dost", "url": "https://www.youtube.com/watch?v=ChVE-JbtYbM", "type": "Channel", "description": "Hindi Node.js tutorials covering APIs, MongoDB, and deployment.", "tags": ["video", "hindi", "beginner"]},
+      {"id": "code-with-harry", "name": "CodeWithHarry", "url": "https://www.youtube.com/watch?v=BLl32FvcdVM", "type": "Channel", "description": "Comprehensive Hindi Node.js playlist for web development.", "tags": ["video", "hindi", "playlist"]}
+    ]
+  },
+  {
+    "id": "nodejs-blogs",
+    "title": "Node.js Blogs",
+    "description": "Stay updated with blogs that constantly publish Node.js insights and trends.",
+    "items": [
+      {"id": "devto-node", "name": "Dev.to /node", "url": "http://dev.to/t/node", "type": "Blog", "description": "Community-written articles tagged with Node.js on dev.to.", "tags": ["blog", "community", "modern"]},
+      {"id": "freecodecamp", "name": "freeCodeCamp blog", "url": "http://medium.freecodecamp.org", "type": "Blog", "description": "Long-form tutorials and guides published by freeCodeCamp.", "tags": ["blog", "tutorial", "beginner"]},
+      {"id": "hackernoon", "name": "Hackernoon Node.js", "url": "http://hackernoon.com", "type": "Blog", "description": "Tech stories featuring Node.js case studies and best practices.", "tags": ["blog", "stories", "community"]},
+      {"id": "hashnode-js", "name": "Hashnode JavaScript", "url": "https://hashnode.com/n/javascript", "type": "Blog", "description": "JavaScript hub featuring regular Node.js deep dives.", "tags": ["blog", "community", "javascript"]},
+      {"id": "advanced-node-concepts", "name": "Advanced Node.js Concepts", "url": "https://medium.com/@khaledq_43881/advanced-node-js-concepts-a-comprehensive-guide-for-senior-engineers-8e49a5456b60", "type": "Article", "description": "Long-form article on advanced patterns for senior engineers.", "tags": ["advanced", "architecture", "article"]},
+      {"id": "how-to-node", "name": "How To Node", "url": "http://howtonode.org", "type": "Blog", "description": "Classic community blog with practical Node.js tutorials.", "tags": ["blog", "classic", "tutorial"]},
+      {"id": "node-weekly", "name": "Node Weekly", "url": "http://nodeweekly.com/issues", "type": "Newsletter", "description": "Weekly roundup of Node.js news, libraries, and articles.", "tags": ["newsletter", "updates", "curated"]},
+      {"id": "quick-code", "name": "Quick Code", "url": "https://medium.com/quick-code", "type": "Blog", "description": "Medium publication with Node.js tips and project walkthroughs.", "tags": ["blog", "projects", "medium"]},
+      {"id": "reddit-node", "name": "Reddit r/node", "url": "https://www.reddit.com/r/node/", "type": "Community", "description": "Active subreddit discussing Node.js releases and Q&A.", "tags": ["community", "forum", "updates"]},
+      {"id": "stackify", "name": "Stackify Blog", "url": "https://stackify.com/blog/", "type": "Blog", "description": "Performance and monitoring articles that regularly feature Node.js.", "tags": ["blog", "performance", "devops"]},
+      {"id": "to-the-new", "name": "To The New", "url": "https://www.tothenew.com/blog/", "type": "Blog", "description": "Engineering blog with practical Node.js and cloud tutorials.", "tags": ["blog", "cloud", "tutorial"]}
+    ]
+  },
+  {
+    "id": "nodejs-frameworks",
+    "title": "Popular Node.js Frameworks",
+    "description": "Feature-rich frameworks and runtimes built atop Node.js.",
+    "items": [
+      {"id": "adonis", "name": "AdonisJS", "url": "https://adonisjs.com", "type": "Framework", "description": "Full-stack MVC framework inspired by Laravel for Node.js.", "tags": ["mvc", "framework", "fullstack"]},
+      {"id": "derby", "name": "DerbyJS", "url": "https://www.derbyjs.com", "type": "Framework", "description": "Real-time MVC framework for building collaborative web apps.", "tags": ["realtime", "mvc", "framework"]},
+      {"id": "diet", "name": "Diet.js", "url": "http://dietjs.com", "type": "Framework", "description": "Minimalistic Node.js framework for rapid API development.", "tags": ["lightweight", "api", "framework"]},
+      {"id": "express", "name": "Express.js", "url": "https://expressjs.com", "type": "Framework", "description": "De facto standard web framework with routing and middleware.", "tags": ["api", "routing", "framework"]},
+      {"id": "feathers", "name": "Feathers", "url": "https://feathersjs.com", "type": "Framework", "description": "Realtime REST and socket API framework with service architecture.", "tags": ["realtime", "api", "framework"]},
+      {"id": "hapi", "name": "hapi", "url": "https://hapi.dev", "type": "Framework", "description": "Config-driven framework for building scalable APIs and services.", "tags": ["enterprise", "api", "framework"]},
+      {"id": "keystone", "name": "KeystoneJS", "url": "https://www.keystonejs.com", "type": "Framework", "description": "Headless CMS and application framework powered by GraphQL.", "tags": ["cms", "graphql", "framework"]},
+      {"id": "koa", "name": "Koa", "url": "https://koajs.com", "type": "Framework", "description": "Minimal and expressive middleware framework from the Express team.", "tags": ["middleware", "lightweight", "framework"]},
+      {"id": "loopback", "name": "LoopBack", "url": "https://loopback.io", "type": "Framework", "description": "Extensible framework for APIs backed by databases and services.", "tags": ["api", "enterprise", "framework"]},
+      {"id": "mean", "name": "MEAN.js", "url": "http://meanjs.org", "type": "Starter", "description": "Full-stack starter for MongoDB, Express, Angular, and Node.", "tags": ["starter", "fullstack", "framework"]},
+      {"id": "meteor", "name": "Meteor", "url": "https://guide.meteor.com", "type": "Framework", "description": "Batteries-included full-stack framework for real-time apps.", "tags": ["realtime", "fullstack", "framework"]},
+      {"id": "nest", "name": "NestJS", "url": "https://nestjs.com", "type": "Framework", "description": "Progressive Node.js framework for scalable server-side apps.", "tags": ["enterprise", "typescript", "framework"]},
+      {"id": "next", "name": "Next.js", "url": "https://nextjs.org/docs", "type": "Framework", "description": "React framework with hybrid static and server-side rendering.", "tags": ["react", "ssr", "framework"]},
+      {"id": "restify", "name": "Restify", "url": "https://restify.com", "type": "Framework", "description": "Optimized for building correct REST web services at scale.", "tags": ["api", "performance", "framework"]},
+      {"id": "sails", "name": "Sails.js", "url": "https://sailsjs.com/get-started", "type": "Framework", "description": "MVC framework for realtime, data-driven applications.", "tags": ["realtime", "mvc", "framework"]},
+      {"id": "socket-io", "name": "Socket.IO", "url": "https://socket.io/get-started/chat", "type": "Framework", "description": "Realtime bidirectional event-based communication library.", "tags": ["realtime", "websockets", "framework"]},
+      {"id": "total", "name": "Total.js", "url": "https://www.totaljs.com", "type": "Framework", "description": "Modular Node.js framework with CMS and IoT tooling.", "tags": ["enterprise", "modular", "framework"]}
+    ]
+  },
+  {
+    "id": "nodejs-tutorials",
+    "title": "Top Node.js Website Tutorials",
+    "description": "Bookmarkable tutorial series that walk through Node.js from scratch.",
+    "items": [
+      {"id": "codecademy", "name": "Codecademy Node.js", "url": "https://www.codecademy.com/learn/learn-node-js", "type": "Course", "description": "Interactive, hands-on Node.js lessons in the browser.", "tags": ["interactive", "course", "beginner"]},
+      {"id": "javatpoint", "name": "JavaTpoint Node.js Tutorial", "url": "https://www.javatpoint.com/nodejs-tutorial", "type": "Tutorial", "description": "Comprehensive text tutorial covering Node.js basics to advanced.", "tags": ["reference", "article", "beginner"]},
+      {"id": "kinsta-academy", "name": "Kinsta Academy Node.js Course", "url": "https://kinsta.com/academy/course/node-js-full-stack-developer/", "type": "Course", "description": "Self-paced course spanning backend fundamentals to deployment.", "tags": ["course", "fullstack", "intermediate"]},
+      {"id": "nodejs-dev", "name": "NodeJs.dev Learn", "url": "https://nodejs.dev/learn", "type": "Docs", "description": "Official learning pathways maintained by the Node.js project.", "tags": ["official", "docs", "beginner"]},
+      {"id": "nodeschool", "name": "NodeSchool", "url": "https://nodeschool.io", "type": "Workshop", "description": "Community-driven workshops you can run locally or online.", "tags": ["interactive", "community", "workshop"]},
+      {"id": "tutorialspoint", "name": "TutorialsPoint Node.js", "url": "https://www.tutorialspoint.com/nodejs/index.htm", "type": "Tutorial", "description": "Structured reference material with examples for each Node.js topic.", "tags": ["reference", "article", "beginner"]},
+      {"id": "tutorialsteacher", "name": "TutorialsTeacher Node.js", "url": "https://www.tutorialsteacher.com/nodejs/nodejs-tutorials", "type": "Tutorial", "description": "Walkthroughs for Node.js basics, modules, and debugging.", "tags": ["article", "step-by-step", "beginner"]},
+      {"id": "w3schools", "name": "W3Schools Node.js", "url": "https://www.w3schools.com/nodejs/", "type": "Tutorial", "description": "Entry-level tutorials with quick references and examples.", "tags": ["reference", "article", "beginner"]}
+    ]
+  }
+]
