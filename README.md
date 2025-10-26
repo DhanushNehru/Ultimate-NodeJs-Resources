@@ -110,6 +110,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Programming Knowledge](https://www.youtube.com/watch?v=spPtAEmwys4)
 - [Coding Train](https://www.youtube.com/watch?v=RF5_MPSNAtU)
 - [Edureka](https://www.youtube.com/watch?v=uk2gSHbnhAI)
+- **Sangam Mukherjee - Part 1** - [Node.js Tutorial](https://youtu.be/_f7h6xQXiLA?si=UkOdJ456R6MPkibU)
+- **Sangam Mukherjee - Part 2** - [Node.js Tutorial](https://youtu.be/pa9xqOnorx0?si=PRQSqlttQPvtPAB2)
 - [LearnCode.academy](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 - [Traversy Media](https://www.youtube.com/watch?v=U8XF6AFGqlc)
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
