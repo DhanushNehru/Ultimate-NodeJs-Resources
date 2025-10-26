@@ -160,7 +160,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [TutorialsPoint](https://www.tutorialspoint.com/nodejs/index.htm)
 - [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
 - [W3schools](https://www.w3schools.com/nodejs/)
-</br>
 
 ---
 🧩 Searching for a job ? This may help you 👉 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
