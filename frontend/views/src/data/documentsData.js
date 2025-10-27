@@ -1,10 +1,10 @@
 export const documentsData = [
-  {
-    id: 'inner-working',
-    title: 'Inner Working of Node JS',
-    category: 'Core Concepts',
-    icon: '⚙️',
-    content: `# Inner Working of Node JS
+    {
+        id: 'inner-working',
+        title: 'Inner Working of Node JS',
+        category: 'Core Concepts',
+        icon: '⚙️',
+        content: `# Inner Working of Node JS
 
 ![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1724868037953/af0582e0-a318-4633-9899-fc4fe0b49fb3.png?auto=compress,format&format=webp)
 
@@ -47,13 +47,13 @@ export const documentsData = [
 ### 8. **Efficiency:**
 
 - By using this approach, Node.js can efficiently handle many client requests at once without being slowed down by long-running operations. Only the tasks that need waiting (blocking I/O) are sent to the Thread Pool, while other tasks are handled immediately, keeping the system responsive.`
-  },
-  {
-    id: 'file-handling',
-    title: 'Handling Files in Node JS',
-    category: 'File System',
-    icon: '📁',
-    content: `# Handling files in Node JS
+    },
+    {
+        id: 'file-handling',
+        title: 'Handling files in Node JS',
+        category: 'File System',
+        icon: '📁',
+        content: `# Handling files in Node JS
 
 ### To handle the files we have to use the \`fs\` module.
 
@@ -136,14 +136,173 @@ try {
 }
 \`\`\`
 
-\`fs.writeFileSync\` writes data to a file synchronously. It blocks the code execution until the operation is complete.`
-  },
-  {
-    id: 'error-handling',
-    title: 'Error Handling and Debugging',
-    category: 'Best Practices',
-    icon: '🐛',
-    content: `# Node.js Error Handling and Debugging
+\`fs.writeFileSync\` writes data to a file synchronously. It blocks the code execution until the operation is complete.
+
+#### 3. **Appending to Files**:
+
+\`\`\`javascript
+// Asynchronous:
+const fs = require('fs');
+
+const content = 'This content will be appended';
+
+fs.appendFile('example.txt', content, err => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log('Content appended successfully');
+});
+\`\`\`
+
+\`fs.appendFile\` appends data to the end of a file asynchronously. If the file does not exist, it is created.
+
+\`\`\`javascript
+// Synchronous:
+const fs = require('fs');
+
+const content = 'This content will be appended';
+
+try {
+    fs.appendFileSync('example.txt', content);
+    console.log('Content appended successfully');
+} catch (err) {
+    console.error(err);
+}
+\`\`\`
+
+- \`fs.appendFileSync\` appends data to a file synchronously.
+
+#### 4. **Deleting Files**:
+
+\`\`\`javascript
+// Asynchronous:
+const fs = require('fs');
+
+fs.unlink('example.txt', err => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log('File deleted successfully');
+});
+\`\`\`
+
+\`fs.unlink\` deletes a file asynchronously. The callback is executed after the file is deleted.
+
+\`\`\`javascript
+// Synchronous:
+const fs = require('fs');
+
+try {
+    fs.unlinkSync('example.txt');
+    console.log('File deleted successfully');
+} catch (err) {
+    console.error(err);
+}
+\`\`\`
+
+\`fs.unlinkSync\` deletes a file synchronously.
+
+#### 5. **Renaming Files**:
+
+\`\`\`javascript
+// Asynchronous:
+const fs = require('fs');
+
+fs.rename('oldname.txt', 'newname.txt', err => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log('File renamed successfully');
+});
+\`\`\`
+
+\`fs.rename\` renames a file asynchronously. The callback is executed after the file is renamed.
+
+\`\`\`javascript
+// Synchronous:
+const fs = require('fs');
+
+try {
+    fs.renameSync('oldname.txt', 'newname.txt');
+    console.log('File renamed successfully');
+} catch (err) {
+    console.error(err);
+}
+\`\`\`
+
+\`fs.renameSync\` renames a file synchronously.
+
+#### 6. **Checking if a File Exists**:
+
+\`\`\`javascript
+// Asynchronous:
+const fs = require('fs');
+
+fs.access('example.txt', fs.constants.F_OK, (err) => {
+    console.log(\`\${err ? 'File does not exist' : 'File exists'}\`);
+});
+\`\`\`
+
+\`fs.access\` check if a file exists and if the program has permission to read, write, or execute it. In this example, \`F_OK\` check if the file exists.
+
+\`\`\`javascript
+// Synchronous:
+const fs = require('fs');
+
+try {
+    fs.accessSync('example.txt', fs.constants.F_OK);
+    console.log('File exists');
+} catch (err) {
+    console.log('File does not exist');
+}
+\`\`\`
+
+\`fs.accessSync\` does the same check synchronously.
+
+### **Working with Directories**:
+
+- **Creating a Directory**:
+
+\`\`\`javascript
+fs.mkdir('newDir', { recursive: true }, (err) => {
+    if (err) throw err;
+    console.log('Directory created');
+});
+\`\`\`
+
+\`fs.mkdir\` creates a new directory. The \`recursive: true\` option allows creating nested directories if they don't exist.
+
+- **Reading a Directory**:
+
+\`\`\`javascript
+fs.readdir('someDir', (err, files) => {
+    if (err) throw err;
+    console.log(files);
+});
+\`\`\`
+
+\`fs.readdir\` reads the contents of a directory and returns an array of filenames.
+
+- **Removing a Directory**:
+
+\`\`\`javascript
+fs.rmdir('newDir', (err) => {
+    if (err) throw err;
+    console.log('Directory removed');
+});
+\`\`\`
+
+\`fs.rmdir\` removes an empty directory.`
+    },
+    {
+        id: 'error-handling',
+        title: 'Error Handling and Debugging',
+        category: 'Best Practices',
+        icon: '🐛',
+        content: `# Node.js Error Handling and Debugging
 
 Error handling is crucial for building robust Node.js applications. This guide covers various strategies and best practices.
 
@@ -250,13 +409,13 @@ Configure launch.json for integrated debugging in VS Code.
 3. **Log errors appropriately** - Use proper logging levels
 4. **Fail fast** - Detect and handle errors as early as possible
 5. **Use error monitoring tools** - Implement proper error tracking in production`
-  },
-  {
-    id: 'concepts-checklist',
-    title: 'Node.js Concepts Checklist',
-    category: 'Learning Path',
-    icon: '✅',
-    content: `# Node.js Concepts Checklist
+    },
+    {
+        id: 'concepts-checklist',
+        title: 'Node.js Concepts Checklist',
+        category: 'Learning Path',
+        icon: '✅',
+        content: `# Node.js Concepts Checklist
 
 A curated list of Node.js concepts to help learners track their progress. Mark each item ✅ as you master it.
 
@@ -344,13 +503,13 @@ A curated list of Node.js concepts to help learners track their progress. Mark e
 - [ ] Containerization with Docker
 - [ ] CI/CD pipelines
 - [ ] Cloud deployment (AWS, Google Cloud, Azure)`
-  },
-  {
-    id: 'template-engines',
-    title: 'Template Engines - EJS',
-    category: 'Web Development',
-    icon: '🎨',
-    content: `# Template Engines - EJS
+    },
+    {
+        id: 'template-engines',
+        title: 'Template Engines - EJS',
+        category: 'Web Development',
+        icon: '🎨',
+        content: `# Template Engines - EJS
 
 EJS (Embedded JavaScript) is a simple templating language that lets you generate HTML markup with plain JavaScript.
 
@@ -496,13 +655,13 @@ Create a layout file \`views/layout.ejs\`:
 3. **Validate data** - Always validate data before passing to templates
 4. **Escape output** - Use \`<%=\` for user input to prevent XSS attacks
 5. **Keep logic minimal** - Move complex logic to controllers/middleware`
-  },
-  {
-    id: 'websockets',
-    title: 'WebSockets and Real-time Applications',
-    category: 'Real-time',
-    icon: '🔌',
-    content: `# WebSockets and Real-time Applications
+    },
+    {
+        id: 'websockets',
+        title: 'WebSockets and Real-time Applications',
+        category: 'Real-time',
+        icon: '🔌',
+        content: `# WebSockets and Real-time Applications
 
 WebSockets provide a persistent, full-duplex communication channel between the client and server, enabling real-time applications.
 
@@ -713,5 +872,5 @@ socket.on('message', (data) => {
 4. **Implement rate limiting** - Prevent abuse and spam
 5. **Error handling** - Properly handle connection errors and timeouts
 6. **Scale horizontally** - Use Redis adapter for multiple server instances`
-  }
+    }
 ]
