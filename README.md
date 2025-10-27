@@ -115,7 +115,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Code School](https://www.youtube.com/watch?v=GJmFG4ffJZU)
 - [The Net Ninja](https://www.youtube.com/watch?v=1US-P13yKVs)
 - [JavaScript Mastery](https://www.youtube.com/watch?v=l8WPWK9mS5M)
-- [Node JS Best practices to Follow](https://www.bacancytechnology.com/blog/node-js-best-practices)
 - [Coder Dost](https://www.youtube.com/watch?v=ChVE-JbtYbM)
 - [Code with Harry](https://www.youtube.com/watch?v=BLl32FvcdVM)
 
@@ -126,6 +125,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [HashNode](https://hashnode.com/n/javascript)
 - [Advanced Node JS Concepts](https://medium.com/@khaledq_43881/advanced-node-js-concepts-a-comprehensive-guide-for-senior-engineers-8e49a5456b60)
 - [How to node](http://howtonode.org)
+- [Node JS Best practices to Follow](https://www.bacancytechnology.com/blog/node-js-best-practices)
 - [Node Weekly](http://nodeweekly.com/issues)
 - [Quick Code](https://medium.com/quick-code)
 - [Reddit](https://www.reddit.com/r/node/)
