@@ -1,82 +1,115 @@
-# Node.js Concepts Checklist
+# 🚀 Node.js Learning Roadmap
 
-A curated list of Node.js concepts to help learners track their progress. Mark each item ✅ as you master it.
-
-## Basics
-
-- [ ] What is Node.js and its use cases
-- [ ] Installing Node.js and npm
-- [ ] Understanding Node.js runtime and V8 engine
-- [ ] Node.js REPL (Read-Eval-Print Loop)
-- [ ] Event Loop and Asynchronous Programming
-- [ ] Global Objects in Node.js (`__dirname`, `__filename`, `global`)
-
-## Core Modules
-
-- [ ] File System (`fs`) – reading/writing files, streams
-- [ ] Path module (`path`) – handling file paths
-- [ ] OS module (`os`) – system information
-- [ ] HTTP/HTTPS module – creating servers, making requests
-- [ ] Events module – EventEmitter usage
-- [ ] Timers module (`setTimeout`, `setInterval`, `setImmediate`, `process.nextTick`)
-
-## NPM & Modules
-
-- [ ] Creating and exporting custom modules
-- [ ] Importing modules (CommonJS `require`, ES Modules `import`)
-- [ ] Understanding package.json
-- [ ] Installing dependencies and devDependencies
-- [ ] Semantic versioning in npm
-- [ ] Using popular packages (e.g., Express, dotenv, axios)
-
-## Advanced Node.js
-
-- [ ] Streams (Readable, Writable, Duplex, Transform)
-- [ ] Buffers and binary data
-- [ ] Error handling patterns (try/catch, callbacks, Promises)
-- [ ] Debugging Node.js applications
-- [ ] Process object and environment variables
-- [ ] Child processes (`child_process` module)
-- [ ] Cluster module for scaling
-
-## Networking & APIs
-
-- [ ] Building HTTP servers with Express.js
-- [ ] REST API design principles
-- [ ] WebSockets for real-time communication
-- [ ] Middleware in Express
-- [ ] Routing and route parameters
-- [ ] Working with JSON and query parameters
-
-## Databases
-
-- [ ] Connecting Node.js with MongoDB
-- [ ] Using MySQL/PostgreSQL with Node.js
-- [ ] CRUD operations from Node.js
-- [ ] Using ORMs (Sequelize, TypeORM, Mongoose)
-
-## Testing & Performance
-
-- [ ] Unit testing Node.js apps (Mocha, Jest)
-- [ ] Logging best practices
-- [ ] Handling uncaught exceptions and rejections
-- [ ] Profiling and performance monitoring
-
-## Best Practices & Patterns
-
-- [ ] Asynchronous patterns (callbacks, promises, async/await)
-- [ ] Modular project structure
-- [ ] Security best practices (Helmet, CORS, input validation)
-- [ ] Environment-based configurations
-- [ ] Error-first callback pattern
-
-## References
-
-- [ ] Read PDFs under `nodejs pdf` folder
-- [ ] Explore existing core topic files for deeper understanding
+A structured path to mastering **Node.js** for back-end development and building production-ready APIs.  
 
 ---
 
-**Progress Tracking**: Mark items with `[x]` as you complete them!
+## 📌 1. Node.js Fundamentals & Servers (✅ 7% Done)
 
-**Last Updated**: October 2025
+**What to Learn:**
+- What Node.js is and why it’s used in back-end development.
+- How the **event loop** and **asynchronous programming** work.
+- Using **Node.js core modules**: `fs`, `path`, `os`, `http`.
+- Creating a basic **HTTP server** with Node.js.
+- Handling requests and responses manually.
+
+**Milestone Project:**  
+📝 Build a simple **HTTP server** that serves static HTML, CSS, and JS files.
+
+---
+
+## 📌 2. Express.js Fundamentals (✅ 13% Done)
+
+**What to Learn:**
+- Setting up an Express server.
+- Defining **routes** (`GET`, `POST`, `PUT`, `DELETE`).
+- Using **middleware** (built-in & custom).
+- Serving static files with Express.
+- Templating engines (EJS, Handlebars, or Pug).
+
+**Milestone Project:**  
+📝 Build a **Blog server** with Express.js that supports multiple routes and serves HTML pages.
+
+---
+
+## 📌 3. Database Integration with MongoDB & Mongoose (✅ 6% Done)
+
+**What to Learn:**
+- Introduction to **NoSQL** and MongoDB basics.
+- Connecting Node.js to MongoDB using **Mongoose**.
+- CRUD operations (Create, Read, Update, Delete).
+- Schema design: One-to-Many and Many-to-Many relationships.
+- Data validation & error handling.
+
+**Milestone Project:**  
+📝 Build a **Task Manager** app where users can add, update, and delete tasks stored in MongoDB.
+
+---
+
+## 📌 4. Building Complete APIs (✅ 7% Done)
+
+**What to Learn:**
+- REST API design principles (resources, endpoints, status codes).
+- Express Router for modular APIs.
+- File upload handling with `multer`.
+- Integrating with external APIs (e.g., weather, payment gateways).
+- Returning JSON responses with proper error handling.
+
+**Milestone Project:**  
+📝 Build a **Movies API** with endpoints to fetch, add, update, and delete movies.
+
+---
+
+## 📌 5. User Authentication (✅ 50% Done)
+
+**What to Learn:**
+- Authentication vs Authorization.
+- Password hashing with **bcrypt**.
+- Session-based authentication (cookies & sessions).
+- **JWT authentication** for stateless APIs.
+- Role-based access control (User vs Admin).
+
+**Milestone Project:**  
+📝 Create an **Auth API** with user registration, login, logout, and JWT-protected routes.
+
+---
+
+## 📌 6. Capstone Project: Core Banking API 💳  
+
+**Stack:** MERN (MongoDB, Express.js, React, Node.js)  
+
+**Features to Implement:**
+- Secure **JWT authentication** for users.  
+- Users can **send money** to each other.  
+- Transaction records stored in MongoDB.  
+- Admin dashboard with full **transaction log**.  
+- Simple **frontend** with HTML/CSS (or React if ready).  
+
+**Stretch Goals:**
+- Add **rate limiting** (to prevent abuse).  
+- Add **input validation** with `Joi` or `Zod`.  
+- Deploy backend to **Render/Heroku** and database to **MongoDB Atlas**.  
+
+---
+
+## 📌 7. Advanced Topics (Optional, Post-Capstone)
+
+- WebSockets with **Socket.IO** for real-time apps.  
+- Caching with **Redis**.  
+- Unit & integration testing with **Jest** or **Mocha/Chai**.  
+- Deployment pipelines with Docker + CI/CD.  
+
+---
+
+## ✅ Progress Tracker  
+
+- Fundamentals: **7%**  
+- Express.js: **13%**  
+- Database: **6%**  
+- APIs: **7%**  
+- Authentication: **50%**  
+- Capstone: 🚧 Not started  
+
+---
+
+🔥 With this roadmap, you’ll go from **Node.js beginner → building real-world APIs → production-ready full-stack projects**.
