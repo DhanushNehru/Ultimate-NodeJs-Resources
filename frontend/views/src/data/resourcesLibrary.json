@@ -307,7 +307,8 @@
       {"id": "jest", "name": "Jest", "url": "https://jestjs.io", "type": "Library", "description": "Delightful JavaScript testing with mocking, snapshots, and watch mode.", "tags": ["testing", "unit", "library"]},
       {"id": "mocha", "name": "Mocha", "url": "https://mochajs.org", "type": "Library", "description": "Flexible Node.js test runner with async support and reporters.", "tags": ["testing", "runner", "library"]},
       {"id": "node-tap", "name": "Node Tap", "url": "https://node-tap.org", "type": "Library", "description": "Test Anything Protocol (TAP) harness for Node.js projects.", "tags": ["testing", "tap", "library"]},
-      {"id": "sinon", "name": "Sinon", "url": "https://sinonjs.org/", "type": "Library", "description": "Standalone test spies, stubs, and mocks for JavaScript.", "tags": ["testing", "mocks", "library"]}
+      {"id": "sinon", "name": "Sinon", "url": "https://sinonjs.org/", "type": "Library", "description": "Standalone test spies, stubs, and mocks for JavaScript.", "tags": ["testing", "mocks", "library"]},
+      {"id": "agent-qa", "name": "Agent QA", "url": "https://github.com/vostride/agent-qa", "type": "Tool", "description": "Node.js CLI for natural-language web and mobile testing, with execution memory and an MCP interface. Source-available under FSL-1.1-ALv2.", "tags": ["testing", "e2e", "mcp"]}
     ]
   },
   {

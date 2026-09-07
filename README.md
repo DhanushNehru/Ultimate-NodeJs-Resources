@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Mocha](https://mochajs.org)
 - [Node Tap](https://node-tap.org)
 - [Sinon](https://sinonjs.org/)
+- [Agent QA](https://github.com/vostride/agent-qa)
 
 ## NodeJs YouTube channels
 - [Programming with Mosh](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
