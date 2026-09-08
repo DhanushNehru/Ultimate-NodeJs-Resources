@@ -73,6 +73,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [Awesome NodeJs Security](https://github.com/lirantal/awesome-nodejs-security)
 - [Docker NodeJs](https://github.com/nodejs/docker-node)
 - [NodeJs Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [YYLO CLI](https://github.com/yylo-dev/yylo)
 
 ## NodeJs IDEs
 - [Aptana](http://www.aptana.com/)
