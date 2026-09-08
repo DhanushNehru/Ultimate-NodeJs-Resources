@@ -258,6 +258,14 @@
         "type": "Repository",
         "description": "Opinionated guide to leading Node.js design patterns and rules.",
         "tags": ["best-practices", "architecture", "open-source"]
+      },
+      {
+        "id": "yylo-cli",
+        "name": "YYLO CLI",
+        "url": "https://github.com/yylo-dev/yylo",
+        "type": "Repository",
+        "description": "npm-distributed Node.js CLI that orchestrates coding agents with typed task, validation, merge, and release-readiness boundaries in dedicated git worktrees.",
+        "tags": ["tooling", "cli", "open-source"]
       }
     ]
   },
