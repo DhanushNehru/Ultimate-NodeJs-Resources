@@ -21,6 +21,38 @@ All resources related to Node Js at one place
 
 ![alt text](./cover.png)
 
+## Support this project
+
+If these resources saved you time, consider supporting my work:
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank">
+    <img
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      alt="Support me on Ko-fi"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.buymeacoffee.com/dhanushnehru">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff"
+      alt="Buy me a book"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+Or [sponsor me on GitHub](https://github.com/sponsors/DhanushNehru).
+
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
