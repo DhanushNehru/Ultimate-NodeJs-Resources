@@ -129,6 +129,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [NodeJs Org](https://nodejs.org/en/security/)
 - [NodeJsScan](https://github.com/ajinabraham/nodejsscan)
 - [Node.js Security](https://www.nodejs-security.com/) - Node.js Secure Coding books
+- [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, MCP configs) for hidden prompt injection.
 
 ## NodeJs Testing Frameworks
 - [Ava](https://github.com/avajs/ava)
