@@ -130,6 +130,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-NodeJs-Resour
 - [NodeJsScan](https://github.com/ajinabraham/nodejsscan)
 - [Node.js Security](https://www.nodejs-security.com/) - Node.js Secure Coding books
 - [agentcheck](https://github.com/DhanushNehru/agentcheck) - Zero-dep CLI that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, MCP configs) for hidden prompt injection.
+- [npmscan](https://npmscan.com/) - Free web tool that checks npm packages and package.json files for known vulnerabilities and supply-chain risks such as install scripts and maintainer changes.
 
 ## NodeJs Testing Frameworks
 - [Ava](https://github.com/avajs/ava)

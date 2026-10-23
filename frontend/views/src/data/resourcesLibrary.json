@@ -299,7 +299,8 @@
       {"id": "owasp-node", "name": "OWASP Node.js Cheat Sheet", "url": "https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html", "type": "Guide", "description": "OWASP best practices to secure Node.js applications end-to-end.", "tags": ["security", "best-practices", "owasp"]},
       {"id": "nodejs-security-site", "name": "Node.js Security Releases", "url": "https://nodejs.org/en/security/", "type": "Docs", "description": "Official security policies, release notes, and vulnerability disclosures.", "tags": ["security", "official", "updates"]},
       {"id": "nodejsscan", "name": "NodeJsScan", "url": "https://github.com/ajinabraham/nodejsscan", "type": "Repository", "description": "Static security scanner to detect insecure Node.js code patterns.", "tags": ["security", "scanner", "open-source"]},
-      {"id": "nodejs-secure-coding", "name": "Node.js Secure Coding", "url": "https://www.nodejs-security.com/", "type": "Guide", "description": "Secure coding handbooks tailored specifically for Node.js developers.", "tags": ["security", "training", "best-practices"]}
+      {"id": "nodejs-secure-coding", "name": "Node.js Secure Coding", "url": "https://www.nodejs-security.com/", "type": "Guide", "description": "Secure coding handbooks tailored specifically for Node.js developers.", "tags": ["security", "training", "best-practices"]},
+      {"id": "npmscan", "name": "npmscan", "url": "https://npmscan.com/", "type": "Tool", "description": "Free web tool that checks npm packages and package.json files for known vulnerabilities and supply-chain risks such as install scripts and maintainer changes.", "tags": ["security", "npm", "supply-chain"]}
     ]
   },
   {
